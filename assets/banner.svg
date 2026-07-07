@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Behavioural Data Science and Behavioural AI banner">
+  <rect width="1280" height="320" fill="#1E1A3C"/>
+  <g stroke="#4A4380" stroke-width="1.2" opacity="0.85">
+    <line x1="960" y1="240" x2="1030" y2="150"/>
+    <line x1="1030" y1="150" x2="1110" y2="190"/>
+    <line x1="1110" y1="190" x2="1185" y2="90"/>
+    <line x1="1030" y1="150" x2="1090" y2="70"/>
+    <line x1="1090" y1="70" x2="1185" y2="90"/>
+    <line x1="960" y1="240" x2="1080" y2="260"/>
+    <line x1="1080" y1="260" x2="1110" y2="190"/>
+    <line x1="1185" y1="90" x2="1240" y2="160"/>
+    <line x1="1080" y1="260" x2="1240" y2="160"/>
+    <line x1="870" y1="120" x2="960" y2="240"/>
+    <line x1="870" y1="120" x2="1030" y2="150"/>
+  </g>
+  <g>
+    <circle cx="870" cy="120" r="7" fill="#F0997B"/>
+    <circle cx="960" cy="240" r="10" fill="#D85A30"/>
+    <circle cx="1030" cy="150" r="12" fill="#7F77DD"/>
+    <circle cx="1090" cy="70" r="8" fill="#5DCAA5"/>
+    <circle cx="1110" cy="190" r="7" fill="#AFA9EC"/>
+    <circle cx="1185" cy="90" r="11" fill="#1D9E75"/>
+    <circle cx="1240" cy="160" r="6" fill="#ED93B1"/>
+    <circle cx="1080" cy="260" r="8" fill="#F5C4B3"/>
+  </g>
+  <text x="64" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#F5F2EA">Behavioural Data Science</text>
+  <text x="64" y="188" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#AFA9EC">&amp; Behavioural AI</text>
+  <text x="64" y="240" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#C9C4E8">The reference hub for two disciplines &#8226; curated by Prof. Ganna Pogrebna</text>
+  <line x1="64" y1="86" x2="220" y2="86" stroke="#D85A30" stroke-width="4"/>
+</svg>
