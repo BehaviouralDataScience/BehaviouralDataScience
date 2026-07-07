@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-label="Behavioural Data Science and Behavioural AI banner">
   <rect width="1280" height="320" fill="#1E1A3C"/>
-  <g stroke="#4A4380" stroke-width="1.2" opacity="0.85">
     <line x1="960" y1="240" x2="1030" y2="150"/>
     <line x1="1030" y1="150" x2="1110" y2="190"/>
     <line x1="1110" y1="190" x2="1185" y2="90"/>
