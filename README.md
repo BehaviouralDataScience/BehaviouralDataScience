@@ -35,7 +35,7 @@ The definitive, field-defining reference work: 44 chapters across six parts — 
 
 **Ganna Pogrebna** is Professor at Queen's University Belfast and Senior Fellow at the Australian Strategic Policy Institute (ASPI). She is a pioneer of behavioural data science and behavioural AI, author of *The Missing B in AI* (2025) and co-editor of *The Cambridge Handbook of Behavioural Data Science* (Cambridge University Press, 2026). Her work explores how emerging technologies transform industries, customer experiences, and business models, and she advises businesses and governments on AI adoption, innovation strategy, and digital trust.
 
-🔗 [gannapogrebna.com](https://www.gannapogrebna.com) · [The Alan Turing Institute](https://www.turing.ac.uk) · [Google Scholar](https://scholar.google.com/citations?user=Zh4vzKUAAAAJ)
+🔗 [gannapogrebna.com](https://www.gannapogrebna.com) · [The Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/finance-and-economics/behavioural-data-science) · [Google Scholar](https://scholar.google.com/citations?user=Zh4vzKUAAAAJ)
 
 ## 🔬 Research repositories
 
